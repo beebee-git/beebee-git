@@ -33,15 +33,6 @@ I'm open to collaborations, discussions, resources and projects relating to Soft
 <br>
 -HTML CSS.
 
-## Socials and 📫 How to reach me:  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Legendsmarto)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Natzsmart&theme=highcontrast&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Natzsmart&layout=compact&theme=vision-friendly-dark)>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Natzsmart&" alt="Natzsmart" /></p>
-
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/blessbee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
