@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Blessing Nwusulor</h1>
+<h1 align="center">Hi 👋, I am Blessing Nwusulor</h1>
 <div id="header" align="center">
   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F07%2Fwhat-skills-do-you-need-to-become-a-software-engineer.png&imgrefurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fskills-needed%2F&tbnid=I1P3_hdeCFrKqM&vet=12ahUKEwjU3-Pduen7AhXxgM4BHSnZAJAQMygQegUIARD8AQ..i&docid=LMQJkBy_9H3MlM&w=800&h=496&q=software%20engineering&ved=2ahUKEwjU3-Pduen7AhXxgM4BHSnZAJAQMygQegUIARD8AQ" width="100"/>
 </div>
